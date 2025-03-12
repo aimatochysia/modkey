@@ -1,5 +1,20 @@
-(kicad_sch (version 20250114) (generator "eeschema") (generator_version "9.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "35d7ef51-f925-464c-9f22-25c4ace9970d")
+	(paper "A4")
+	(title_block
+		(title "ModKey v1")
+		(date "2025-03-12")
+		(company "Petra Michael")
+		(comment 1 "v0.2")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
