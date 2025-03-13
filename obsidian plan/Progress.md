@@ -1,0 +1,10 @@
+- [x] Overview Planning
+- [ ] Detailed Planning
+- [ ] Prototype Making
+- [ ] PCB Design
+- [ ] Material Bought
+- [ ] Soldering
+- [ ] Programming
+- [ ] Case Making
+- [ ] Testing
+- [ ] Deployment
